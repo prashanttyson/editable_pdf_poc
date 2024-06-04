@@ -420,10 +420,10 @@ packages:
     dependency: "direct main"
     description:
       name: pspdfkit_flutter
-      sha256: bde1ed7236c3e49ca33dad36a6ae202d7dc390511e5d0315b066d3ed9af69f31
+      sha256: "7948380f1da88e1f5ea624e64f99602a32a4c911a8f4662b030494e3077a5ba8"
       url: "https://pub.dev"
     source: hosted
-    version: "3.10.0"
+    version: "3.10.1"
   pub_semver:
     dependency: transitive
     description:

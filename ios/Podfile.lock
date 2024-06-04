@@ -4,7 +4,7 @@ PODS:
   - PSPDFKit (13.4.1):
     - PSPDFKit/Core (= 13.4.1)
   - PSPDFKit/Core (13.4.1)
-  - pspdfkit_flutter (3.10.0):
+  - pspdfkit_flutter (3.10.1):
     - Flutter
     - Instant (= 13.4.1)
     - PSPDFKit (= 13.4.1)
@@ -28,7 +28,7 @@ SPEC CHECKSUMS:
   Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
   Instant: 4fb295cacb94923f4ec3fdf1b514b6b45f6cdf2f
   PSPDFKit: 172935e3b301334c0bd3db3c69f733ca36c3ef52
-  pspdfkit_flutter: bec838f6389c2950ca1bc24cadcbf144781f3ccf
+  pspdfkit_flutter: 75dd11ea1c3385dcf6a8ebebd1237dc7cf4e84c8
 
 PODFILE CHECKSUM: 9c46fd01abff66081b39f5fa5767b3f1d0b11d76
 

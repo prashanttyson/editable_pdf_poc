@@ -6,7 +6,7 @@ import 'package:pspdfkit_flutter/pspdfkit.dart';
 const String DOCUMENT_PATH = 'pdfs/fillable.pdf';
 
 void main() {
-  Pspdfkit.setLicenseKey('null');
+  // Pspdfkit.setLicenseKey('null');
   runApp(MyApp());}
 
 class MyApp extends StatefulWidget {

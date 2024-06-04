@@ -61,4 +61,5 @@ flutter {
 
 dependencies {
     implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.pspdfkit:pspdfkit:10.2.0'
 }
